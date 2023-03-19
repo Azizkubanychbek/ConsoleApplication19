@@ -114,3 +114,4 @@ int main() {
     difference.print();
     std::cout << "Product: ";
     product.print();
+}
